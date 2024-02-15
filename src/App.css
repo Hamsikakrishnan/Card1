@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.div1{
+  color: white;
+  margin: 15px 50px 0px 50px;
+}
+.main{
+  display: flex;
+  background-color: #282D35;
+  border-radius: 4px;
+}
+h3,h4{
+  margin: 0;
+}
+.par{
+  max-width: 300px;
+}
+.al{
+  color: black;
+}
+.ala{
+  margin-right: 20px;
+  background-color: #61DAFB;
+}
